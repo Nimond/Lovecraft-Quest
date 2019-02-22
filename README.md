@@ -6,6 +6,6 @@
                      +1 - lever is vertical 
                      -1 - lever is horisontal
 
-3. python3 lavcraft_game.py (linux)
-
-   python lavcraft_game.py (шindoшs)
+3. 
+                     python3 lovecraft_game.py (linux)
+                     python lovecraft_game.py (шindoшs)
